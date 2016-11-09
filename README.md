@@ -21,8 +21,8 @@ nmake -f ms\nt.mak install #install
 
 sha1-586.asm : error A2070:invalid instruction operands (asm not support)
 
-ml.exe is not supported, use nasm instead
+  - ml.exe is not supported, use nasm instead
 
 nasm is not recognized as an internal or external command (PATH problem)
   
-put nasm.exe in C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin
+  - put nasm.exe in C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin
