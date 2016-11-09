@@ -1,11 +1,12 @@
-# OpenSSL windows build guide
+# OpenSSL with Visual Studio 2015 build note
 
 ### Preparation
 
   - ActivePerl http://www.activestate.com/activeperl/downloads
   - or Strawberry Perl (Portable) http://strawberryperl.com/releases.html
   - nasm http://www.nasm.us/
-
+  - Visual Studio 2015
+  
 ### Build
 
 ```sh
